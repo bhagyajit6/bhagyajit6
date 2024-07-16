@@ -7,7 +7,7 @@
 ### Hello there fellow traveller👋, Greetings, everyone. I see you have stumbled upon this profile.
 #### Web Development and AI/ML mostly GenAI
 
-![](https://github.com/bhagyajit6/bhagyajit6/ryan-gosling-blade-runner.gif)
+<img src="https://github.com/bhagyajit6/bhagyajit6/blob/main/ryan-gosling-blade-runner.gif"/>
 
 I am exploring. Like a free bird. Doing whatever I can. And I love learning but hate bugs. Unlike birds.
 
